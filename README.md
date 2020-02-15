@@ -1,8 +1,8 @@
-# Assignment-1
+﻿# Assignment-1
 
 This consists the solutions for the five questions fo Assignment 1. 
 
-1. Write a program to calculate the cost of a roadtrip. Ask the user how many kilometers will be          travelled, thenaskwhatistheaveragedistancethatthevehiclerunswith1literofgas. Theprogramshouldoutput the estimated cost of the trip, considering the price of gas as $1.16 CAD per liter. Format real numbers to print only 2 digits after the decimal point.
+1. Write a program to calculate the cost of a roadtrip. Ask the user how many kilometers will be travelled, then ask what is the average distance that the vehicle runs with 1 liter of gas. The program should output the estimated cost of the trip, considering the price of gas as $1.16 CAD per liter. Format real numbers to print only 2 digits after the decimal point.
 
 2. Write a program that prompts the user for the price of a product in CAD, and outputs the values of sales tax in Quebec (TPS + TVQ), tips of 15%, and the total amount that should be paid. Be creative and provide an elegant output. Format real numbers to print only 2 digits after the decimal point. 3. Write a program that prompts the user for a whole number (an integer) of 3 digits and outputs the sum of the digits of the input.
 
