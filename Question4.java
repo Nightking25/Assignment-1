@@ -13,6 +13,8 @@ public class Question4 {
             System.out.println("Enter the URL");
             String url = scanner.nextLine();
 
+            url = url.replaceAll("\\s+",""); // code to remove all white space;
+
             stringLength = url.length();
             System.out.println("Verifying an URL with " + stringLength + " characters...");
 
